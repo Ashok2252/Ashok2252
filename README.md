@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashokmali1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UEWbO51ROo6RfRivWilkSlb4qArFMPeX/view?usp=share_link](https://drive.google.com/file/d/1UEWbO51ROo6RfRivWilkSlb4qArFMPeX/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UEWbO51ROo6RfRivWilkSlb4qArFMPeX/view?usp=share_link)
 
 - ⚡ Fun fact **I like quizzing too :)**
 
