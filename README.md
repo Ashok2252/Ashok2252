@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps , React**
 
 - 💻 Python, Java, SQL, Javascript
 
