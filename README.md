@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **DevOps, Node**
+- 🌱 I’m currently learning **DevOps, Java SpringBoot 🍃**
 
 - 💻 Python, Java, SQL, Javascript
 
