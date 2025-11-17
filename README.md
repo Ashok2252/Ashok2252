@@ -1,4 +1,4 @@
-[![MasterHead](https://www.brighton.ac.uk/images/School-of-Computing-Engineering-and-Mathematics/Artificial-intelligence-banner-Cropped-1300x340.jpg?f=webp&q=80&w=990)]([https://portfollio.live/ashok2252](https://linkedin.com/in/ashok2252))
+[![MasterHead](https://www.brighton.ac.uk/images/School-of-Computing-Engineering-and-Mathematics/Artificial-intelligence-banner-Cropped-1300x340.jpg?f=webp&q=80&w=990)]([https://linkedin.com/in/ashok2252]))
 <h1 align="center">Hi 👋, I'm Ashok Mali</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
